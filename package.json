@@ -1,0 +1,18 @@
+{
+  "name": "entrenamiento_salud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0",
+    "nodemon": "^3.1.10"
+  }
+}
